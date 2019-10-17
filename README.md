@@ -16,7 +16,7 @@ Build dist w/ Babel: `npm run build`
 
 Start bot: `node dist/index.js`
 
-*When running, check out what you can do by typing !commands*
+*When up and running, check out what the bot can do by typing !commands.*
 
 ## Customization
 
