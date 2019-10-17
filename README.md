@@ -1,3 +1,7 @@
+## Setup
+
+Add your token to the `src/config.json` file
+
 ## Running the Bot
 
 Install dependencies:  `npm i`
@@ -6,11 +10,7 @@ Build dist w/ Babel:   `npm run build`
 
 Start bot:             `node dist/index.js`
 
-## Manual Setup
-
-Add your token to the `src/config.json` file
-
-## Optional
+## Customization
 
 Manually add your own set of events, armors and titles in:
 
