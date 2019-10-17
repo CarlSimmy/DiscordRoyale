@@ -1,7 +1,8 @@
 **Semi-finished Battle Royale Bot with randomized text events to have some simple fun with your Discord friends.**
 
 **The Bot is loosely based on [Brant Steele's](https://brantsteele.net) Hunger Games simulator.**
-#
+
+  
 
 ## Setup
 
