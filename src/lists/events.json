@@ -1,0 +1,72 @@
+[
+  {
+    "targets": 1,
+    "effectedTargets": [0],
+    "healthChange": [-20],
+    "description": "[0] gets hit by a truck"
+  },
+
+  {
+    "targets": 1,
+    "effectedTargets": [0],
+    "healthChange": [15],
+    "description": "[0] eats a pizza and feels rejuvenated"
+  },
+
+  {
+    "targets": 3,
+    "effectedTargets": [2],
+    "healthChange": [-23],
+    "description": "[0] and [1] uses their wombo combo on [2]"
+  },
+
+  {
+    "targets": "all",
+    "effectedTargets": [],
+    "healthChange": [-18],
+    "description": "A poison mist appears that damages __**everyone**__  on the battlefield"
+  },
+
+  {
+    "targets": 1,
+    "effectedTargets": [0],
+    "healthChange": [],
+    "description": "[0] finds a hidden chest. Equipment obtained: <item>",
+    "itemType": "armor"
+  },
+
+  {
+    "targets": 1,
+    "effectedTargets": [0],
+    "healthChange": [],
+    "description": "[0] walks in to a room filled with buttons. Below every button the name of a contestant is written. [0] , which button do you press?",
+    "followUpEvents": [
+      {
+        "targets": "1",
+        "effectedTargets": [0],
+        "healthChange": [-27],
+        "description": "A drone appears behind [0] and hits [0] with a baseball bat" 
+      },
+      {
+        "targets": "1",
+        "effectedTargets": [0],
+        "healthChange": [-43],
+        "description": "A bomb falls from the sky and explodes right in front of poor [0]" 
+      },
+      {
+        "targets": "1",
+        "effectedTargets": [0],
+        "healthChange": [25],
+        "description": "A health potion appears in front of [0] who instantly uses it" 
+      }
+    ]
+  },
+
+  {
+    "targets": 1,
+    "effectedTargets": [0],
+    "healthChange": [25],
+    "description": "[0] is blessed by the gods",
+    "type": "persistent"
+  }
+]

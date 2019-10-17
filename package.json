@@ -1,0 +1,22 @@
+{
+  "name": "discordroyale",
+  "version": "2.0.0",
+  "description": "Battle Royale Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist --copy-files"
+  },
+  "author": "Simon Jansson <sijansson@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/runtime": "^7.6.3",
+    "discord.js": "^11.5.1",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/plugin-transform-runtime": "^7.6.2",
+    "@babel/preset-env": "^7.6.3"
+  }
+}
