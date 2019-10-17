@@ -14,8 +14,8 @@ Add your token to the `src/config.json` file
 
 Manually add your own set of events, armors and titles in:
 
-```
-src/lists/events.json
-src/lists/armors.json
-src/lists/titles.json
-```
+`src/lists/events.json`
+
+`src/lists/armors.json`
+
+`src/lists/titles.json`
