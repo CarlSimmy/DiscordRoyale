@@ -1,14 +1,18 @@
+**Semi-finished Battle Royale Bot with randomized events to have some simple fun with your Discord friends.**
+
 ## Setup
 
-Add your token to the `src/config.json` file
+Add your bot token to `src/config.json`
 
 ## Running the Bot
 
-Install dependencies:  `npm i`
+Install dependencies: `npm i`
 
-Build dist w/ Babel:   `npm run build`
+Build dist w/ Babel: `npm run build`
 
-Start bot:             `node dist/index.js`
+Start bot: `node dist/index.js`
+
+*When running, check out what you can do by typing !commands*
 
 ## Customization
 
